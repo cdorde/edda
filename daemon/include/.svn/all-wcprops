@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/BaKaiVolker/!svn/ver/328/code/daemon/include
+END
+pem_functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/BaKaiVolker/!svn/ver/328/code/daemon/include/pem_functions.h
+END
+createAesDesKey.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/BaKaiVolker/!svn/ver/328/code/daemon/include/createAesDesKey.c
+END
+base64.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/BaKaiVolker/!svn/ver/325/code/daemon/include/base64.c
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/BaKaiVolker/!svn/ver/325/code/daemon/include/base64.h
+END
+pem_functions.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/BaKaiVolker/!svn/ver/328/code/daemon/include/pem_functions.c
+END
