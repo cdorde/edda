@@ -28,8 +28,8 @@ along with edda.  If not, see <http://www.gnu.org/licenses/>.
 #include <openssl/rsa.h>
 #include <openssl/pem.h>
 #include <openssl/sha.h>
-#include "../include/pem_functions.h"
-#include "../include/base64.h"
+#include "include/pem_functions.h"
+#include "include/base64.h"
 #include "desfire/desfireAccess.h"
 #include "pinpad/pinpad.h"
 
